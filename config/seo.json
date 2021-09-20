@@ -1,20 +1,20 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Hubli Shopping | Powered by MMK Technology",
+  "titleTemplate": "%s - Hubli Storefront",
+  "description": "Hubli Commerce",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Hubli Shopping | Powered by MMK Technology",
+    "description": "Hubli Commerce",
     "type": "website",
-    "locale": "en_IE",
+    "locale": "en_IN",
     "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "site_name": "Hubli Shopping",
     "images": [
       {
         "url": "/card.png",
         "width": 800,
         "height": 600,
-        "alt": "Next.js Commerce"
+        "alt": "Hubli Shopping"
       }
     ]
   },
